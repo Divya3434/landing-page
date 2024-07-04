@@ -1,1 +1,2 @@
 # landing-page
+This project is a landing page for a luxury car rental service named "Watch Shop". The page is designed to provide information about the services offered, showcase the variety of luxury watches available for rent, and highlight the benefits of using the service. The landing page is built using HTML and CSS and features a responsive design to ensure a seamless user experience across different devices.
